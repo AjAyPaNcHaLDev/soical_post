@@ -1,0 +1,14 @@
+.card{
+min-height: 10rem;
+min-width: 5rem;
+max-width: 10rem;
+border-radius: .4rem; 
+box-shadow:  1px 2px 1px 2px;
+margin:  auto;
+} 
+.card .card-header{
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border-bottom: 1px solid #000;
+}
+ 
